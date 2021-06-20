@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
+"""Auxiliary functions to generate Locally Differentially Private data."""
 
-This is a temporary script file.
-"""
 import numpy as np
 import pandas as pd
 
