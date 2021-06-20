@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
+"""Auxiliary functions to simulate datasets."""
 
-This is a temporary script file.
-"""
 import pandas as pd
 import numpy as np
 
